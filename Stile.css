@@ -1,0 +1,6 @@
+td{border:3px dashed #AAA; }
+td{font-size:64px}
+td{padding: 3px}
+table{border-spacing:5px}
+td.odd{background-color: #fff237}
+td.even{background-color: #1f45ff}
